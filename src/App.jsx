@@ -17,9 +17,9 @@ function App() {
   };
 
   return (
-    <div className="container">
+    <div classname="container">
       <h1>Qoute Genrator</h1>
-      <p className="qoute">{quote || 'click the button to get inspired'}</p>
+      <p classname="qoute">{quote || 'click the button to get inspired'}</p>
       <button onClick={generateQuote}>Click</button>
     </div>
   );
