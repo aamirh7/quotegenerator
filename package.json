@@ -1,8 +1,8 @@
 {
-  "name": "homepage",
+  "name": "react-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aamirh7.github.io/quotegenerator",
+  "homepage": "https://quotegenerator-rust.vercel.app/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
